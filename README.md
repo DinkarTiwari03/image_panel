@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 ![Explore page](assests/image.png) -->
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="assets/image.png" alt="Home Screen" width="300">
-  <img src="assets/image2.png" alt="Explore Page" width="300">
-  <img src="assets/image.png" alt="Explore Page" width="300">
+  <img src="assests/image.png" alt="Home Screen" width="300">
+  <img src="assests/image2.png" alt="Explore Page" width="300">
+  <img src="assests/image.png" alt="Explore Page" width="300">
 </div>
