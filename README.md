@@ -17,9 +17,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShots of the App
-![Home Screen](C:\image_panel\assests\image.png)
+![Home Screen](assests/image.png)
 
-![Explore page](C:\image_panel\assests\image2.png)
+![Explore page](assests/image2.png)
 
-![Explore page](C:\image_panel\assests\image3.png)
+![Explore page](assests/image.png)
 
