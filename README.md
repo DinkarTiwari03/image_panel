@@ -17,9 +17,14 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShots of the App
-![Home Screen](assests/image.png)
+<!-- ![Home Screen](assests/image.png)
 
 ![Explore page](assests/image2.png)
 
-![Explore page](assests/image.png)
+![Explore page](assests/image.png) -->
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="assets/image.png" alt="Home Screen" width="300">
+  <img src="assets/image2.png" alt="Explore Page" width="300">
+  <img src="assets/image.png" alt="Explore Page" width="300">
+</div>
